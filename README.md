@@ -1,4 +1,4 @@
-# system-design
+# System-design
 
 ### Objectives of system design 
 - `Practicality` :
