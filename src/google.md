@@ -1,9 +1,9 @@
 ## Design Google
 
-| First Header  | Second Header |
+| Func Req | Non-Func Req |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| - able to produce something  | - not able to produce something |
+| - able to log something | - highly available  |
 
 
 
